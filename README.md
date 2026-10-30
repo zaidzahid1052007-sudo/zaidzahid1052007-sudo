@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./assets/zaid-banner.png" width="100%" alt="Zaid Zahid GitHub Banner">
-</div>﻿
+﻿
 <div align="center">
 
 # Hi, I'm Zaid Zahid 👋
